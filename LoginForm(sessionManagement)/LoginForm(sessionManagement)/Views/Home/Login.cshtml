@@ -1,0 +1,39 @@
+﻿@model LoginForm_sessionManagement_.Models.User
+
+
+@{
+    ViewData["Title"] = "Create User";
+  
+}
+
+<h2>Create User</h2>
+
+<form asp-action="Login" method="post">
+    @{
+        if (ViewBag.message != null)
+        {
+            <p style="color: red;">@ViewBag.message</p>
+        }
+        if (TempData["Success"] != null)
+        {
+            <p style="color: green;">@TempData["Success"]</p>
+        }
+    }
+    <div class="form-group">
+        <label asp-for="Email" class="control-label"></label>
+        <input asp-for="Email" type="email" class="form-control" required />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Password" class="control-label"></label>
+        <input asp-for="Password" type="password" class="form-control" required />
+    </div>
+
+    <br />
+    <button type="submit" class="btn btn-primary">Login</button>
+    <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+</form>
+</br>
+<p>
+    <a  asp-controller="Home" asp-action="Register">Not Registered Yet ? Clicl Here To Signup</a>
+</p>

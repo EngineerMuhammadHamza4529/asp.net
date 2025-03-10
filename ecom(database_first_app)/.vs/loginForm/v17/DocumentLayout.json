@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AA\\source\\repos\\ecom(database_first_app)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70E38254-3479-43EE-8AF2-391992308F41}|ecom(database_first_app)\\ecom(database_first_app).csproj|c:\\users\\aa\\source\\repos\\ecom(database_first_app)\\ecom(database_first_app)\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E38254-3479-43EE-8AF2-391992308F41}|ecom(database_first_app)\\ecom(database_first_app).csproj|solutionrelative:ecom(database_first_app)\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E38254-3479-43EE-8AF2-391992308F41}|ecom(database_first_app)\\loginForm.csproj|c:\\users\\aa\\source\\repos\\ecom(database_first_app)\\ecom(database_first_app)\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{70E38254-3479-43EE-8AF2-391992308F41}|ecom(database_first_app)\\loginForm.csproj|solutionrelative:ecom(database_first_app)\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E38254-3479-43EE-8AF2-391992308F41}|ecom(database_first_app)\\loginForm.csproj|c:\\users\\aa\\source\\repos\\ecom(database_first_app)\\ecom(database_first_app)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E38254-3479-43EE-8AF2-391992308F41}|ecom(database_first_app)\\loginForm.csproj|solutionrelative:ecom(database_first_app)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E38254-3479-43EE-8AF2-391992308F41}|ecom(database_first_app)\\loginForm.csproj|c:\\users\\aa\\source\\repos\\ecom(database_first_app)\\ecom(database_first_app)\\models\\loginformcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E38254-3479-43EE-8AF2-391992308F41}|ecom(database_first_app)\\loginForm.csproj|solutionrelative:ecom(database_first_app)\\models\\loginformcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E38254-3479-43EE-8AF2-391992308F41}|ecom(database_first_app)\\loginForm.csproj|c:\\users\\aa\\source\\repos\\ecom(database_first_app)\\ecom(database_first_app)\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E38254-3479-43EE-8AF2-391992308F41}|ecom(database_first_app)\\loginForm.csproj|solutionrelative:ecom(database_first_app)\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E38254-3479-43EE-8AF2-391992308F41}|ecom(database_first_app)\\loginForm.csproj|c:\\users\\aa\\source\\repos\\ecom(database_first_app)\\ecom(database_first_app)\\loginform.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{70E38254-3479-43EE-8AF2-391992308F41}|ecom(database_first_app)\\loginForm.csproj|solutionrelative:ecom(database_first_app)\\loginform.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "loginForm",
+              "DocumentMoniker": "C:\\Users\\AA\\source\\repos\\ecom(database_first_app)\\ecom(database_first_app)\\loginForm.csproj",
+              "RelativeDocumentMoniker": "ecom(database_first_app)\\loginForm.csproj",
+              "ToolTip": "C:\\Users\\AA\\source\\repos\\ecom(database_first_app)\\ecom(database_first_app)\\loginForm.csproj",
+              "RelativeToolTip": "ecom(database_first_app)\\loginForm.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-06T16:52:50.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\AA\\source\\repos\\ecom(database_first_app)\\ecom(database_first_app)\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ecom(database_first_app)\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\AA\\source\\repos\\ecom(database_first_app)\\ecom(database_first_app)\\Models\\User.cs",
+              "RelativeToolTip": "ecom(database_first_app)\\Models\\User.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T16:51:49.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\AA\\source\\repos\\ecom(database_first_app)\\ecom(database_first_app)\\appsettings.json",
+              "RelativeDocumentMoniker": "ecom(database_first_app)\\appsettings.json",
+              "ToolTip": "C:\\Users\\AA\\source\\repos\\ecom(database_first_app)\\ecom(database_first_app)\\appsettings.json",
+              "RelativeToolTip": "ecom(database_first_app)\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-06T16:49:54.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginFormContext.cs",
+              "DocumentMoniker": "C:\\Users\\AA\\source\\repos\\ecom(database_first_app)\\ecom(database_first_app)\\Models\\LoginFormContext.cs",
+              "RelativeDocumentMoniker": "ecom(database_first_app)\\Models\\LoginFormContext.cs",
+              "ToolTip": "C:\\Users\\AA\\source\\repos\\ecom(database_first_app)\\ecom(database_first_app)\\Models\\LoginFormContext.cs",
+              "RelativeToolTip": "ecom(database_first_app)\\Models\\LoginFormContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T16:48:33.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AA\\source\\repos\\ecom(database_first_app)\\ecom(database_first_app)\\Program.cs",
+              "RelativeDocumentMoniker": "ecom(database_first_app)\\Program.cs",
+              "ToolTip": "C:\\Users\\AA\\source\\repos\\ecom(database_first_app)\\ecom(database_first_app)\\Program.cs",
+              "RelativeToolTip": "ecom(database_first_app)\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T16:35:23.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\AA\\source\\repos\\ecom(database_first_app)\\ecom(database_first_app)\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ecom(database_first_app)\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\AA\\source\\repos\\ecom(database_first_app)\\ecom(database_first_app)\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ecom(database_first_app)\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T19:59:10.555Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

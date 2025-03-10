@@ -1,0 +1,10 @@
+﻿@using Microsoft.AspNetCore.Http
+@inject Microsoft.AspNetCore.Http.IHttpContextAccessor accessor
+
+@{
+    ViewData["Title"] = "injectsession";
+}
+
+<h1>injectsession</h1>
+<h1>@accessor.HttpContext.Session.GetString("mykey")</h1>
+

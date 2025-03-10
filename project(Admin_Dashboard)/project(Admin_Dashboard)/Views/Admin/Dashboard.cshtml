@@ -1,0 +1,16 @@
+﻿
+@{
+    ViewData["Title"] = "Dashboard";
+}
+
+<h1>Dashboard</h1>
+@if (ViewBag.mysession != null)
+{
+    <h2>Welcome, @ViewBag.mysession</h2>
+
+    <div>
+        <a asp-controller="Account" asp-action="Logout" class="btn btn-dark">Logout</a>
+    </div>
+}
+
+

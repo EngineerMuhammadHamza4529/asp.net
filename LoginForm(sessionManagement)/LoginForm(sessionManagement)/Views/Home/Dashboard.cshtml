@@ -1,0 +1,53 @@
+﻿@{
+    ViewData["Title"] = "Dashboard";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Dashboard</h1>
+<h2>@ViewBag.mysession</h2>
+
+<div>
+    <a asp-controller="Home" asp-action="Logout" class="btn btn-dark">Logout</a>
+</div>
+
+<hr />
+
+<h2>Manage Products</h2>
+
+<!-- Add Product Button -->
+<a asp-controller="Product" asp-action="AddProduct" class="btn btn-primary">Add Product</a>
+
+<!-- Product List (Optional) -->
+<table class="table">
+    <thead>
+        <tr>
+            <th>Product Name</th>
+            <th>Price</th>
+            <th>Description</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (ViewBag.Products != null)
+        {
+            @foreach (var product in ViewBag.Products)
+            {
+                <tr>
+                    <td>@product.Name</td>
+                    <td>@product.Price</td>
+                    <td>@product.Description</td>
+                    <td>
+                        <a asp-controller="Product" asp-action="Edit" asp-route-id="@product.Id" class="btn btn-warning">Edit</a>
+                        <a asp-controller="Product" asp-action="Delete" asp-route-id="@product.Id" class="btn btn-danger">Delete</a>
+                    </td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="4">No products available.</td>
+            </tr>
+        }
+    </tbody>
+</table>
