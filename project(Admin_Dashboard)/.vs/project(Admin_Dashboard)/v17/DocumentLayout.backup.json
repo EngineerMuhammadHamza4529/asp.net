@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1C015929-DD12-4885-B5AC-34F68145B809}|project(Admin_Dashboard)\\project(Admin_Dashboard).csproj|c:\\users\\aa\\source\\repos\\project(admin_dashboard)\\project(admin_dashboard)\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C015929-DD12-4885-B5AC-34F68145B809}|project(Admin_Dashboard)\\project(Admin_Dashboard).csproj|solutionrelative:project(admin_dashboard)\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1C015929-DD12-4885-B5AC-34F68145B809}|project(Admin_Dashboard)\\project(Admin_Dashboard).csproj|c:\\users\\aa\\source\\repos\\project(admin_dashboard)\\project(admin_dashboard)\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1C015929-DD12-4885-B5AC-34F68145B809}|project(Admin_Dashboard)\\project(Admin_Dashboard).csproj|solutionrelative:project(admin_dashboard)\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1C015929-DD12-4885-B5AC-34F68145B809}|project(Admin_Dashboard)\\project(Admin_Dashboard).csproj|c:\\users\\aa\\source\\repos\\project(admin_dashboard)\\project(admin_dashboard)\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1C015929-DD12-4885-B5AC-34F68145B809}|project(Admin_Dashboard)\\project(Admin_Dashboard).csproj|solutionrelative:project(admin_dashboard)\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C015929-DD12-4885-B5AC-34F68145B809}|project(Admin_Dashboard)\\project(Admin_Dashboard).csproj|c:\\users\\aa\\source\\repos\\project(admin_dashboard)\\project(admin_dashboard)\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C015929-DD12-4885-B5AC-34F68145B809}|project(Admin_Dashboard)\\project(Admin_Dashboard).csproj|solutionrelative:project(admin_dashboard)\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C015929-DD12-4885-B5AC-34F68145B809}|project(Admin_Dashboard)\\project(Admin_Dashboard).csproj|c:\\users\\aa\\source\\repos\\project(admin_dashboard)\\project(admin_dashboard)\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1C015929-DD12-4885-B5AC-34F68145B809}|project(Admin_Dashboard)\\project(Admin_Dashboard).csproj|solutionrelative:project(admin_dashboard)\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1C015929-DD12-4885-B5AC-34F68145B809}|project(Admin_Dashboard)\\project(Admin_Dashboard).csproj|c:\\users\\aa\\source\\repos\\project(admin_dashboard)\\project(admin_dashboard)\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,8 +23,20 @@
       "RelativeMoniker": "D:0:0:{1C015929-DD12-4885-B5AC-34F68145B809}|project(Admin_Dashboard)\\project(Admin_Dashboard).csproj|solutionrelative:project(admin_dashboard)\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{1C015929-DD12-4885-B5AC-34F68145B809}|project(Admin_Dashboard)\\project(Admin_Dashboard).csproj|c:\\users\\aa\\source\\repos\\project(admin_dashboard)\\project(admin_dashboard)\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C015929-DD12-4885-B5AC-34F68145B809}|project(Admin_Dashboard)\\project(Admin_Dashboard).csproj|solutionrelative:project(admin_dashboard)\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1C015929-DD12-4885-B5AC-34F68145B809}|project(Admin_Dashboard)\\project(Admin_Dashboard).csproj|c:\\users\\aa\\source\\repos\\project(admin_dashboard)\\project(admin_dashboard)\\models\\admindbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C015929-DD12-4885-B5AC-34F68145B809}|project(Admin_Dashboard)\\project(Admin_Dashboard).csproj|solutionrelative:project(admin_dashboard)\\models\\admindbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C015929-DD12-4885-B5AC-34F68145B809}|project(Admin_Dashboard)\\project(Admin_Dashboard).csproj|c:\\users\\aa\\source\\repos\\project(admin_dashboard)\\project(admin_dashboard)\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C015929-DD12-4885-B5AC-34F68145B809}|project(Admin_Dashboard)\\project(Admin_Dashboard).csproj|solutionrelative:project(admin_dashboard)\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C015929-DD12-4885-B5AC-34F68145B809}|project(Admin_Dashboard)\\project(Admin_Dashboard).csproj|c:\\users\\aa\\source\\repos\\project(admin_dashboard)\\project(admin_dashboard)\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C015929-DD12-4885-B5AC-34F68145B809}|project(Admin_Dashboard)\\project(Admin_Dashboard).csproj|solutionrelative:project(admin_dashboard)\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1C015929-DD12-4885-B5AC-34F68145B809}|project(Admin_Dashboard)\\project(Admin_Dashboard).csproj|c:\\users\\aa\\source\\repos\\project(admin_dashboard)\\project(admin_dashboard)\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -50,76 +58,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Dashboard.cshtml",
-              "DocumentMoniker": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\Views\\Admin\\Dashboard.cshtml",
-              "RelativeDocumentMoniker": "project(Admin_Dashboard)\\Views\\Admin\\Dashboard.cshtml",
-              "ToolTip": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\Views\\Admin\\Dashboard.cshtml",
-              "RelativeToolTip": "project(Admin_Dashboard)\\Views\\Admin\\Dashboard.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-10T20:13:49.649Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\Views\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "project(Admin_Dashboard)\\Views\\Account\\Register.cshtml",
               "ToolTip": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\Views\\Account\\Register.cshtml",
               "RelativeToolTip": "project(Admin_Dashboard)\\Views\\Account\\Register.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAACQAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwDIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-10T19:08:56.872Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T19:08:56.872Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "project(Admin_Dashboard)\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "project(Admin_Dashboard)\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T19:00:04.635Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "AdminController.cs",
               "DocumentMoniker": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "project(Admin_Dashboard)\\Controllers\\AdminController.cs",
               "ToolTip": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\Controllers\\AdminController.cs",
               "RelativeToolTip": "project(Admin_Dashboard)\\Controllers\\AdminController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAApwAsAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T18:52:09.043Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T18:52:09.043Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "project(Admin_Dashboard)\\Views\\Account\\Login.cshtml",
               "ToolTip": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\Views\\Account\\Login.cshtml",
               "RelativeToolTip": "project(Admin_Dashboard)\\Views\\Account\\Login.cshtml",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAADgAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-10T18:30:50.202Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T18:30:50.202Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\Program.cs",
               "RelativeDocumentMoniker": "project(Admin_Dashboard)\\Program.cs",
@@ -127,31 +106,29 @@
               "RelativeToolTip": "project(Admin_Dashboard)\\Program.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T18:23:55.495Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T18:23:55.495Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\Models\\User.cs",
               "RelativeDocumentMoniker": "project(Admin_Dashboard)\\Models\\User.cs",
               "ToolTip": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\Models\\User.cs",
               "RelativeToolTip": "project(Admin_Dashboard)\\Models\\User.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAmwA8AAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAASwBUAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T18:13:30.631Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T18:13:30.631Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "project(Admin_Dashboard)\\Controllers\\AccountController.cs",
               "ToolTip": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\Controllers\\AccountController.cs",
               "RelativeToolTip": "project(Admin_Dashboard)\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAswFMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-10T18:12:38.751Z",
               "EditorCaption": ""
@@ -164,14 +141,61 @@
               "RelativeDocumentMoniker": "project(Admin_Dashboard)\\Models\\AdminDbContext.cs",
               "ToolTip": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\Models\\AdminDbContext.cs",
               "RelativeToolTip": "project(Admin_Dashboard)\\Models\\AdminDbContext.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T19:45:11.513Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T19:45:11.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "project(Admin_Dashboard)\\Views\\Admin\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeToolTip": "project(Admin_Dashboard)\\Views\\Admin\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-10T20:13:49.649Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "project(Admin_Dashboard)\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "project(Admin_Dashboard)\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAOkAAAAAAAAAAAAiwPEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T23:22:12.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "project(Admin_Dashboard)\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "project(Admin_Dashboard)\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T19:00:04.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "project(Admin_Dashboard)\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "project(Admin_Dashboard)\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T23:32:37.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "project(Admin_Dashboard)\\wwwroot\\css\\site.css",
@@ -179,8 +203,7 @@
               "RelativeToolTip": "project(Admin_Dashboard)\\wwwroot\\css\\site.css",
               "ViewState": "AgIAAA0AAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-10T18:31:16.665Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T18:31:16.665Z"
             }
           ]
         }

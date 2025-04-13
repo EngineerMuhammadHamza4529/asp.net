@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\project(image_upload_and_Retrieveving).props" />
+</Project>

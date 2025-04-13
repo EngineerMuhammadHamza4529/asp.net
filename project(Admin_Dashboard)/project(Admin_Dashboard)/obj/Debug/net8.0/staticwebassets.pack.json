@@ -5,12 +5,252 @@
       "PackagePath": "staticwebassets\\project(Admin_Dashboard).4iuheixd6g.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\css\\home.css",
+      "PackagePath": "staticwebassets\\css\\home.css"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\css\\home.css.map",
+      "PackagePath": "staticwebassets\\css\\home.css.map"
+    },
+    {
       "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\css\\style.css.map"
+    },
+    {
       "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\images\\about\\about.jpg",
+      "PackagePath": "staticwebassets\\images\\about\\about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\images\\about\\awards-logo.png",
+      "PackagePath": "staticwebassets\\images\\about\\awards-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\images\\avater.jpg",
+      "PackagePath": "staticwebassets\\images\\avater.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\images\\backgrounds\\bg-1.jpg",
+      "PackagePath": "staticwebassets\\images\\backgrounds\\bg-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\images\\backgrounds\\coming-soon-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\backgrounds\\coming-soon-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\images\\blog\\avater-1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\avater-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\images\\blog\\avater-2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\avater-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\images\\blog\\avater-3.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\avater-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\images\\blog\\avater-4.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\avater-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\images\\blog\\blog-post-1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-post-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\images\\blog\\blog-post-2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-post-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\images\\blog\\blog-post-3.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-post-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\images\\blog\\blog-post-4.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-post-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\images\\blog\\blog-post-5.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-post-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\images\\blog\\blog-post-6.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-post-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\images\\blog\\post-thumb-2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\post-thumb-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\images\\blog\\post-thumb-3.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\post-thumb-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\images\\blog\\post-thumb-4.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\post-thumb-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\images\\blog\\post-thumb-5.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\post-thumb-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\images\\blog\\post-thumb-6.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\post-thumb-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\images\\blog\\post-thumb-7.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\post-thumb-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\images\\blog\\post-thumb.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\post-thumb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\images\\shop\\cart\\cart-1.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\cart\\cart-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\images\\shop\\cart\\cart-2.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\cart\\cart-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\images\\shop\\cart\\cart-3.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\cart\\cart-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\images\\shop\\category\\category-1.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\category\\category-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\images\\shop\\category\\category-2.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\category\\category-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\images\\shop\\category\\category-3.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\category\\category-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\images\\shop\\header-img.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\header-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\images\\shop\\products\\modal-product.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\products\\modal-product.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\images\\shop\\products\\product-1.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\products\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\images\\shop\\products\\product-2.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\products\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\images\\shop\\products\\product-3.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\products\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\images\\shop\\products\\product-4.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\products\\product-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\images\\shop\\products\\product-5.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\products\\product-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\images\\shop\\products\\product-6.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\products\\product-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\images\\shop\\products\\product-7.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\products\\product-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\images\\shop\\products\\product-8.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\products\\product-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\images\\shop\\products\\product-9.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\products\\product-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\images\\shop\\products\\single-product.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\products\\single-product.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\images\\shop\\single-products\\product-1.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\single-products\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\images\\shop\\single-products\\product-2.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\single-products\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\images\\shop\\single-products\\product-3.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\single-products\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\images\\shop\\single-products\\product-4.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\single-products\\product-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\images\\shop\\single-products\\product-5.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\single-products\\product-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\images\\shop\\single-products\\product-6.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\single-products\\product-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\images\\shop\\verified.png",
+      "PackagePath": "staticwebassets\\images\\shop\\verified.png"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\images\\slider\\slider-1.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\slider-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\images\\slider\\slider-2.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\slider-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\images\\slider\\slider-3.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\slider-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\images\\team\\team-1.jpg",
+      "PackagePath": "staticwebassets\\images\\team\\team-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\images\\team\\team-2.jpg",
+      "PackagePath": "staticwebassets\\images\\team\\team-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\images\\team\\team-3.jpg",
+      "PackagePath": "staticwebassets\\images\\team\\team-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
     },
     {
       "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\js\\site.js",
@@ -243,6 +483,214 @@
     {
       "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\plugins\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\plugins\\animate\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\plugins\\bootstrap-touchspin\\demo\\demo.css",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-touchspin\\demo\\demo.css"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\plugins\\bootstrap-touchspin\\demo\\favicon.ico",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-touchspin\\demo\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\plugins\\bootstrap-touchspin\\demo\\index.html",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-touchspin\\demo\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\plugins\\bootstrap-touchspin\\dist\\jquery.bootstrap-touchspin.css",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-touchspin\\dist\\jquery.bootstrap-touchspin.css"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\plugins\\bootstrap-touchspin\\dist\\jquery.bootstrap-touchspin.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-touchspin\\dist\\jquery.bootstrap-touchspin.js"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\plugins\\bootstrap-touchspin\\dist\\jquery.bootstrap-touchspin.min.css",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-touchspin\\dist\\jquery.bootstrap-touchspin.min.css"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\plugins\\bootstrap-touchspin\\dist\\jquery.bootstrap-touchspin.min.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-touchspin\\dist\\jquery.bootstrap-touchspin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\plugins\\bootstrap-touchspin\\src\\jquery.bootstrap-touchspin.css",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-touchspin\\src\\jquery.bootstrap-touchspin.css"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\plugins\\bootstrap-touchspin\\src\\jquery.bootstrap-touchspin.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap-touchspin\\src\\jquery.bootstrap-touchspin.js"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\plugins\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\plugins\\ekko-lightbox\\dist\\ekko-lightbox.css",
+      "PackagePath": "staticwebassets\\plugins\\ekko-lightbox\\dist\\ekko-lightbox.css"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\plugins\\ekko-lightbox\\dist\\ekko-lightbox.js",
+      "PackagePath": "staticwebassets\\plugins\\ekko-lightbox\\dist\\ekko-lightbox.js"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\plugins\\ekko-lightbox\\dist\\ekko-lightbox.min.css",
+      "PackagePath": "staticwebassets\\plugins\\ekko-lightbox\\dist\\ekko-lightbox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\plugins\\ekko-lightbox\\dist\\ekko-lightbox.min.js",
+      "PackagePath": "staticwebassets\\plugins\\ekko-lightbox\\dist\\ekko-lightbox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\plugins\\google-map\\gmap.js",
+      "PackagePath": "staticwebassets\\plugins\\google-map\\gmap.js"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\plugins\\google-map\\images\\marker.png",
+      "PackagePath": "staticwebassets\\plugins\\google-map\\images\\marker.png"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\plugins\\instafeed\\instafeed.min.js",
+      "PackagePath": "staticwebassets\\plugins\\instafeed\\instafeed.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\plugins\\jquery\\dist\\core.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\dist\\core.js"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\plugins\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\plugins\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\plugins\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\plugins\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\plugins\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\plugins\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\plugins\\slick\\README.markdown",
+      "PackagePath": "staticwebassets\\plugins\\slick\\README.markdown"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\plugins\\slick\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\plugins\\slick\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\plugins\\slick\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\plugins\\slick\\fonts\\slick.eot"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\plugins\\slick\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\plugins\\slick\\fonts\\slick.svg"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\plugins\\slick\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\plugins\\slick\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\plugins\\slick\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\plugins\\slick\\fonts\\slick.woff"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\plugins\\slick\\slick-animation.min.js",
+      "PackagePath": "staticwebassets\\plugins\\slick\\slick-animation.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\plugins\\slick\\slick-theme.css",
+      "PackagePath": "staticwebassets\\plugins\\slick\\slick-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\plugins\\slick\\slick.css",
+      "PackagePath": "staticwebassets\\plugins\\slick\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\plugins\\slick\\slick.min.js",
+      "PackagePath": "staticwebassets\\plugins\\slick\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\plugins\\smooth-scroll\\dist\\js\\smooth-scroll.js",
+      "PackagePath": "staticwebassets\\plugins\\smooth-scroll\\dist\\js\\smooth-scroll.js"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\plugins\\smooth-scroll\\dist\\js\\smooth-scroll.min.js",
+      "PackagePath": "staticwebassets\\plugins\\smooth-scroll\\dist\\js\\smooth-scroll.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\plugins\\smooth-scroll\\dist\\js\\smooth-scroll.polyfills.js",
+      "PackagePath": "staticwebassets\\plugins\\smooth-scroll\\dist\\js\\smooth-scroll.polyfills.js"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\plugins\\smooth-scroll\\dist\\js\\smooth-scroll.polyfills.min.js",
+      "PackagePath": "staticwebassets\\plugins\\smooth-scroll\\dist\\js\\smooth-scroll.polyfills.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\plugins\\syo-timer\\build\\jquery.syotimer.min.js",
+      "PackagePath": "staticwebassets\\plugins\\syo-timer\\build\\jquery.syotimer.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\plugins\\themefisher-font\\Read Me.txt",
+      "PackagePath": "staticwebassets\\plugins\\themefisher-font\\Read Me.txt"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\plugins\\themefisher-font\\demo-files\\demo.css",
+      "PackagePath": "staticwebassets\\plugins\\themefisher-font\\demo-files\\demo.css"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\plugins\\themefisher-font\\demo-files\\demo.js",
+      "PackagePath": "staticwebassets\\plugins\\themefisher-font\\demo-files\\demo.js"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\plugins\\themefisher-font\\demo.html",
+      "PackagePath": "staticwebassets\\plugins\\themefisher-font\\demo.html"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\plugins\\themefisher-font\\fonts\\themefisher-font.eot",
+      "PackagePath": "staticwebassets\\plugins\\themefisher-font\\fonts\\themefisher-font.eot"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\plugins\\themefisher-font\\fonts\\themefisher-font.svg",
+      "PackagePath": "staticwebassets\\plugins\\themefisher-font\\fonts\\themefisher-font.svg"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\plugins\\themefisher-font\\fonts\\themefisher-font.ttf",
+      "PackagePath": "staticwebassets\\plugins\\themefisher-font\\fonts\\themefisher-font.ttf"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\plugins\\themefisher-font\\fonts\\themefisher-font.woff",
+      "PackagePath": "staticwebassets\\plugins\\themefisher-font\\fonts\\themefisher-font.woff"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\plugins\\themefisher-font\\selection.json",
+      "PackagePath": "staticwebassets\\plugins\\themefisher-font\\selection.json"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(Admin_Dashboard)\\project(Admin_Dashboard)\\wwwroot\\plugins\\themefisher-font\\style.css",
+      "PackagePath": "staticwebassets\\plugins\\themefisher-font\\style.css"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.project(Admin_Dashboard).props",

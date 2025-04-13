@@ -1,7 +1,10 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using project_Admin_Dashboard_.Models;
+﻿using project_Admin_Dashboard_.Models;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Http;
 using BCrypt.Net;
-using Microsoft.EntityFrameworkCore;
+using System.Threading.Tasks;
+using System.Linq;
+
 namespace project_Admin_Dashboard_.Controllers
 {
     public class AccountController : Controller
@@ -23,46 +26,36 @@ namespace project_Admin_Dashboard_.Controllers
         {
             if (HttpContext.Session.GetString("UserSession") != null)
             {
-                return RedirectToAction("AdminDashboard" , "Dashboard");
+                return RedirectToAction("AdminDashboard", "Dashboard"); // ✅ Fixed redirection
             }
-            else
-            {
-                return View();
-            }
+            return View();
         }
 
         [HttpPost]
         public IActionResult Login(User u)
         {
-            // (with Hashing password)
+            if (!ModelState.IsValid)
+            {
+                ViewBag.Message = "Validation failed! Check your inputs.";
+                return View();
+            }
 
-            //var myuser = _context.Users.FirstOrDefault(x => x.Email == u.Email);
+            // Find user by email
+            var myuser = _context.Users.FirstOrDefault(x => x.Email == u.Email);
 
-            //if (myuser != null && BCrypt.Net.BCrypt.Verify(u.Password, myuser.Password))
-            //{
-            //    HttpContext.Session.SetString("UserSession", myuser.Email);
-            //    return RedirectToAction("Dashboard");
-            //}
-
-            var myuser = _context.Users.Where(x => x.Email == u.Email && x.PasswordHash == u.PasswordHash).FirstOrDefault();
-            if (myuser != null)
+            if (myuser != null && BCrypt.Net.BCrypt.Verify(u.PasswordHash, myuser.PasswordHash)) // ✅ Fix password check
             {
                 HttpContext.Session.SetString("UserSession", myuser.Email);
-                return RedirectToAction("Dashboard", "Admin");
+                return RedirectToAction("AdminDashboard", "Dashboard");
+            }
 
-            }
-            else
-            {
-                ViewBag.Message = "Login Failed";
-            }
+            ViewBag.Message = "Invalid Email or Password!";
             return View();
         }
-
 
         [HttpGet]
         public IActionResult Register()
         {
-
             return View();
         }
 
@@ -71,21 +64,23 @@ namespace project_Admin_Dashboard_.Controllers
         {
             if (ModelState.IsValid)
             {
-                // Hash the password before saving
-                // (with Hashing password)
-                //u.Password = BCrypt.Net.BCrypt.HashPassword(u.Password);
+                // ✅ Hash the password before saving
+                u.PasswordHash = BCrypt.Net.BCrypt.HashPassword(u.PasswordHash);
+
                 await _context.Users.AddAsync(u);
                 await _context.SaveChangesAsync();
                 TempData["Success"] = "Registered Successfully!";
                 return RedirectToAction("Login");
             }
+
+            ViewBag.Message = "Registration failed! Check inputs.";
             return View();
         }
 
         public IActionResult Logout()
         {
-            HttpContext.Session.Clear(); // Clear session
-            return RedirectToAction("Login"); // Redirect to login page
+            HttpContext.Session.Clear(); // ✅ Clear session
+            return RedirectToAction("Login");
         }
     }
 }

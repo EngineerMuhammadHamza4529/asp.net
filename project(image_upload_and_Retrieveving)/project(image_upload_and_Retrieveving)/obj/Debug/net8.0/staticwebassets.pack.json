@@ -1,0 +1,301 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(image_upload_and_Retrieveving)\\project(image_upload_and_Retrieveving)\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\project(image_upload_and_Retrieveving).bundle.scp.css",
+      "PackagePath": "staticwebassets\\project(image_upload_and_Retrieveving).bme2jqwssx.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(image_upload_and_Retrieveving)\\project(image_upload_and_Retrieveving)\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(image_upload_and_Retrieveving)\\project(image_upload_and_Retrieveving)\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(image_upload_and_Retrieveving)\\project(image_upload_and_Retrieveving)\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(image_upload_and_Retrieveving)\\project(image_upload_and_Retrieveving)\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(image_upload_and_Retrieveving)\\project(image_upload_and_Retrieveving)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(image_upload_and_Retrieveving)\\project(image_upload_and_Retrieveving)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(image_upload_and_Retrieveving)\\project(image_upload_and_Retrieveving)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(image_upload_and_Retrieveving)\\project(image_upload_and_Retrieveving)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(image_upload_and_Retrieveving)\\project(image_upload_and_Retrieveving)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(image_upload_and_Retrieveving)\\project(image_upload_and_Retrieveving)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(image_upload_and_Retrieveving)\\project(image_upload_and_Retrieveving)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(image_upload_and_Retrieveving)\\project(image_upload_and_Retrieveving)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(image_upload_and_Retrieveving)\\project(image_upload_and_Retrieveving)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(image_upload_and_Retrieveving)\\project(image_upload_and_Retrieveving)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(image_upload_and_Retrieveving)\\project(image_upload_and_Retrieveving)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(image_upload_and_Retrieveving)\\project(image_upload_and_Retrieveving)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(image_upload_and_Retrieveving)\\project(image_upload_and_Retrieveving)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(image_upload_and_Retrieveving)\\project(image_upload_and_Retrieveving)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(image_upload_and_Retrieveving)\\project(image_upload_and_Retrieveving)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(image_upload_and_Retrieveving)\\project(image_upload_and_Retrieveving)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(image_upload_and_Retrieveving)\\project(image_upload_and_Retrieveving)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(image_upload_and_Retrieveving)\\project(image_upload_and_Retrieveving)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(image_upload_and_Retrieveving)\\project(image_upload_and_Retrieveving)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(image_upload_and_Retrieveving)\\project(image_upload_and_Retrieveving)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(image_upload_and_Retrieveving)\\project(image_upload_and_Retrieveving)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(image_upload_and_Retrieveving)\\project(image_upload_and_Retrieveving)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(image_upload_and_Retrieveving)\\project(image_upload_and_Retrieveving)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(image_upload_and_Retrieveving)\\project(image_upload_and_Retrieveving)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(image_upload_and_Retrieveving)\\project(image_upload_and_Retrieveving)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(image_upload_and_Retrieveving)\\project(image_upload_and_Retrieveving)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(image_upload_and_Retrieveving)\\project(image_upload_and_Retrieveving)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(image_upload_and_Retrieveving)\\project(image_upload_and_Retrieveving)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(image_upload_and_Retrieveving)\\project(image_upload_and_Retrieveving)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(image_upload_and_Retrieveving)\\project(image_upload_and_Retrieveving)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(image_upload_and_Retrieveving)\\project(image_upload_and_Retrieveving)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(image_upload_and_Retrieveving)\\project(image_upload_and_Retrieveving)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(image_upload_and_Retrieveving)\\project(image_upload_and_Retrieveving)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(image_upload_and_Retrieveving)\\project(image_upload_and_Retrieveving)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(image_upload_and_Retrieveving)\\project(image_upload_and_Retrieveving)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(image_upload_and_Retrieveving)\\project(image_upload_and_Retrieveving)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(image_upload_and_Retrieveving)\\project(image_upload_and_Retrieveving)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(image_upload_and_Retrieveving)\\project(image_upload_and_Retrieveving)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(image_upload_and_Retrieveving)\\project(image_upload_and_Retrieveving)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(image_upload_and_Retrieveving)\\project(image_upload_and_Retrieveving)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(image_upload_and_Retrieveving)\\project(image_upload_and_Retrieveving)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(image_upload_and_Retrieveving)\\project(image_upload_and_Retrieveving)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(image_upload_and_Retrieveving)\\project(image_upload_and_Retrieveving)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(image_upload_and_Retrieveving)\\project(image_upload_and_Retrieveving)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(image_upload_and_Retrieveving)\\project(image_upload_and_Retrieveving)\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(image_upload_and_Retrieveving)\\project(image_upload_and_Retrieveving)\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(image_upload_and_Retrieveving)\\project(image_upload_and_Retrieveving)\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(image_upload_and_Retrieveving)\\project(image_upload_and_Retrieveving)\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(image_upload_and_Retrieveving)\\project(image_upload_and_Retrieveving)\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(image_upload_and_Retrieveving)\\project(image_upload_and_Retrieveving)\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(image_upload_and_Retrieveving)\\project(image_upload_and_Retrieveving)\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(image_upload_and_Retrieveving)\\project(image_upload_and_Retrieveving)\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(image_upload_and_Retrieveving)\\project(image_upload_and_Retrieveving)\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(image_upload_and_Retrieveving)\\project(image_upload_and_Retrieveving)\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(image_upload_and_Retrieveving)\\project(image_upload_and_Retrieveving)\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(image_upload_and_Retrieveving)\\project(image_upload_and_Retrieveving)\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(image_upload_and_Retrieveving)\\project(image_upload_and_Retrieveving)\\wwwroot\\uploads\\459865a9-4a23-4706-b3f0-e29e6f2edf20.jpg",
+      "PackagePath": "staticwebassets\\uploads\\459865a9-4a23-4706-b3f0-e29e6f2edf20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(image_upload_and_Retrieveving)\\project(image_upload_and_Retrieveving)\\wwwroot\\uploads\\4b8da3a6-69f6-4c15-81d1-36ffe5bcb845.jpg",
+      "PackagePath": "staticwebassets\\uploads\\4b8da3a6-69f6-4c15-81d1-36ffe5bcb845.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(image_upload_and_Retrieveving)\\project(image_upload_and_Retrieveving)\\wwwroot\\uploads\\621ea601-e759-4d69-b3d4-9ae47fc8da83.jpg",
+      "PackagePath": "staticwebassets\\uploads\\621ea601-e759-4d69-b3d4-9ae47fc8da83.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(image_upload_and_Retrieveving)\\project(image_upload_and_Retrieveving)\\wwwroot\\uploads\\7413e0de-7a90-4005-a2bf-a03941eef74f.jpg",
+      "PackagePath": "staticwebassets\\uploads\\7413e0de-7a90-4005-a2bf-a03941eef74f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(image_upload_and_Retrieveving)\\project(image_upload_and_Retrieveving)\\wwwroot\\uploads\\83e53cbf-c17e-4c0e-b6d5-243715c24ea4.jpg",
+      "PackagePath": "staticwebassets\\uploads\\83e53cbf-c17e-4c0e-b6d5-243715c24ea4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(image_upload_and_Retrieveving)\\project(image_upload_and_Retrieveving)\\wwwroot\\uploads\\90b63e37-7606-412c-a920-f72ecfdcdb58.jpg",
+      "PackagePath": "staticwebassets\\uploads\\90b63e37-7606-412c-a920-f72ecfdcdb58.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(image_upload_and_Retrieveving)\\project(image_upload_and_Retrieveving)\\wwwroot\\uploads\\c677610f-c932-4a88-a7d3-dc1c09bc7b20.jpg",
+      "PackagePath": "staticwebassets\\uploads\\c677610f-c932-4a88-a7d3-dc1c09bc7b20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AA\\source\\repos\\project(image_upload_and_Retrieveving)\\project(image_upload_and_Retrieveving)\\wwwroot\\uploads\\d8e31c33-2e51-4ad5-bb08-f5494a96aaf0.jpg",
+      "PackagePath": "staticwebassets\\uploads\\d8e31c33-2e51-4ad5-bb08-f5494a96aaf0.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.project(image_upload_and_Retrieveving).props",
+      "PackagePath": "build\\project(image_upload_and_Retrieveving).props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.project(image_upload_and_Retrieveving).props",
+      "PackagePath": "buildMultiTargeting\\project(image_upload_and_Retrieveving).props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.project(image_upload_and_Retrieveving).props",
+      "PackagePath": "buildTransitive\\project(image_upload_and_Retrieveving).props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.project(image_upload_and_Retrieveving).Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.project(image_upload_and_Retrieveving).Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

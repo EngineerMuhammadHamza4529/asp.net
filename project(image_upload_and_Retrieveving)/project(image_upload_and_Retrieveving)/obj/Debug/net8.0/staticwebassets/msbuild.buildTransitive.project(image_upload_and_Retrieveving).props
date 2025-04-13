@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\project(image_upload_and_Retrieveving).props" />
+</Project>

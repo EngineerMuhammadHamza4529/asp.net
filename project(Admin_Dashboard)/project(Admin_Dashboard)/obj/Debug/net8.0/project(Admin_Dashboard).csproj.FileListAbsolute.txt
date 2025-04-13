@@ -257,3 +257,4 @@ C:\Users\AA\source\repos\project(Admin_Dashboard)\project(Admin_Dashboard)\obj\D
 C:\Users\AA\source\repos\project(Admin_Dashboard)\project(Admin_Dashboard)\obj\Debug\net8.0\project(Admin_Dashboard).pdb
 C:\Users\AA\source\repos\project(Admin_Dashboard)\project(Admin_Dashboard)\obj\Debug\net8.0\project(Admin_Dashboard).genruntimeconfig.cache
 C:\Users\AA\source\repos\project(Admin_Dashboard)\project(Admin_Dashboard)\obj\Debug\net8.0\ref\project(Admin_Dashboard).dll
+C:\Users\AA\source\repos\project(Admin_Dashboard)\project(Admin_Dashboard)\obj\Debug\net8.0\project(Admin_Dashboard).sourcelink.json
